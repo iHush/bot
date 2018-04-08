@@ -1,0 +1,21 @@
+{
+  "name": "kythriabotv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord-anti-spam": "^1.1.1",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.21.0",
+    "ms": "^2.1.1",
+    "npm": "^5.8.0",
+    "profanities": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
