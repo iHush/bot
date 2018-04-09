@@ -1,0 +1,17 @@
+{
+    "helpMsg1": [
+        "**Prefix is !**",
+        "**__Moderation Commands__**",
+        "**Ban** - Bans a user",
+        "**Unban** - Unbans a user",
+        "**Kick** - Kicks a user",
+        "**Mute** - Mutes a user",
+        "**Warn** - Warns a user",
+        "**Purge** - Deletes the sepcified amount of messages",
+        "**Poll** - Creates a simple yes or no poll with the given title"
+      ],
+    "helpMsg2": [
+      "**__Useful Commands__**",
+      "**Serverinfo** - Displays info about the server(ComingSoon:tm:)" 
+      ]
+}
